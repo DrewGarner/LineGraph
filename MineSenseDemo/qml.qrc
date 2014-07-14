@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/Style.js</file>
+        <file>components/ShiftBox.qml</file>
+        <file>components/PointBox.qml</file>
+        <file>components/LineGraph.qml</file>
+        <file>components/ViewBox.qml</file>
+        <file>views/GraphView.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
